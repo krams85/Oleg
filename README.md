@@ -1,2 +1,3 @@
 # Oleg
-Setver mesage
+Server mesage
+Кто идет играть? 
